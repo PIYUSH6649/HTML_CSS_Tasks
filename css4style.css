@@ -1,0 +1,47 @@
+body{
+    margin: 0;
+}
+div{
+    border-top-right-radius: 15px;
+    border-bottom-right-radius: 15px;
+    margin-top: 15px;
+}
+.hover{
+    float: left;
+}
+.dgreen{
+    background-color: green;
+    height: 100px;
+    width: 100px;
+}
+.dgreen:hover{
+    width: 120px;
+}
+.dblue{
+    background-color:rgb(4, 131, 181);
+    height: 100px;
+    width: 100px;
+}
+.dblue:hover{
+    width: 120px;
+}
+.dorange{
+    background-color:orangered;
+    height: 100px;
+    width: 100px;
+}
+.dorange:hover{
+    width: 120px;
+}
+.dgrey{
+    background-color:dimgray;
+    height: 100px;
+    width: 100px;
+}
+.dgrey:hover{
+    width: 120px;
+}
+.side{
+    display:inline-block;
+    padding-left:40px ;
+}

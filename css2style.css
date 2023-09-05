@@ -1,0 +1,43 @@
+.vnav{
+    padding-right: 50px;
+}
+.nav1{
+    height:100%;
+    width:100%;
+    border-style: solid;
+    padding: 10px;
+}
+.home1{
+    background-color: orange;
+    color:white;
+    padding:10px;
+}
+.web1{
+    background-color: aqua;
+    padding:10px;
+    color: blue;
+}
+.hnav{
+    padding: 50px;
+}
+.nav2{
+    height:50%;
+    width:100%;
+    border-style: solid;
+    padding: 15px;
+    margin-left: 0;
+}
+.home2{
+    display: inline;
+    padding: 10px 20px;
+    background-color: rgb(94, 92, 92);
+    color: white;
+    border-style: solid;
+}
+.web2{
+    display: inline;
+    padding: 10px 20px;
+    background-color: rgb(206, 202, 202);
+    color: blue;
+    border-left-style: solid;
+}

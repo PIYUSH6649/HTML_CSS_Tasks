@@ -1,0 +1,13 @@
+.main{
+    background-color: rgb(23, 146, 23);
+    color: white;
+}
+.first{
+    background-color: lightgray;
+}
+.second{
+    background-color: white;
+}
+td{
+    padding: 10px;
+}

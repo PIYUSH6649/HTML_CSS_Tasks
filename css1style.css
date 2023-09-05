@@ -1,0 +1,45 @@
+.table1{
+    background-color: aqua;
+    border-radius: 10px;
+}
+.table2{
+    padding: 10px;
+}
+th,td{
+    border-radius: 10px;
+}
+.square1{
+    height:40px;
+    width:70px;
+    border-color: rgb(5, 255, 5);
+    border-style: solid;
+}
+.square2{
+    height:40px;
+    width:70px;
+    border-color: rgb(5, 255, 5);
+    border-style: solid;
+    border-radius: 10%;
+}
+.square3{
+    height:40px;
+    width:70px;
+    border-color: rgb(5, 255, 5);
+    border-style: solid;
+    border-radius: 25%;
+}
+.square4{
+    height:40px;
+    width:70px;
+    border-color: rgb(5, 255, 5);
+    border-style: solid;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+}
+.oval{
+    height:40px;
+    width:70px;
+    border-color: rgb(5, 255, 5);
+    border-style: solid;
+    border-radius: 50%;
+}
